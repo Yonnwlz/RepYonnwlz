@@ -1,2 +1,1 @@
-AAABBB
-CCC
+AAA
